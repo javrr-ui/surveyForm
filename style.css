@@ -3,7 +3,14 @@
 }
 
 
+body {
+    display: grid;
+    justify-items: center;
+
+}
+
 #survey {
+    width: 700px;
     display: grid;
     justify-items: center;
 }
